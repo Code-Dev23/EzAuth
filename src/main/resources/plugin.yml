@@ -1,0 +1,4 @@
+name: EzAuth
+version: '${version}'
+main: it.codedevv.ezauth.EzAuth
+api-version: '1.20'

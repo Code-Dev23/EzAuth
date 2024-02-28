@@ -1,0 +1,4 @@
+PASSWORD_SETTINGS:
+  MIN_LENGHT: 6
+  # working in progress...
+AUTH_SPAWN:
